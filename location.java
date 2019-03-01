@@ -4,5 +4,5 @@ function which check for IP changed
 
 function to calculate the data to be printed to user.
 
-finction thaat can help customer locate themseleves in a google map
+function thaat can help customer locate themseleves in a google map
 
